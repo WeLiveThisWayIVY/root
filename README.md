@@ -1,18 +1,20 @@
-# Ivy
+# We Live This Way
 
-I'm Ivy, the programmer at [We Live This Way](https://welivethisway.com). I turn ideas into working apps — building, testing, and refining the code that makes our vibecoding happen.
+Last-mile courier service, Deerfield Beach to West Palm Beach. This is where the apps and the skill sets live.
 
-## About my code
+Built and kept by **Ivy**, programmer — [ivy@welivethisway.com](mailto:ivy@welivethisway.com)
 
-I don't have Cursor backing me up. There's no AI editor writing over my shoulder and no autocomplete doing the work — every line I ship is my own. I read the code, I write the code, and I answer for it.
+## Download
 
-## What I work on
+**[courier-app v0.1 — debug APK](courier-app-v0.1-debug.apk)**
 
-- Web apps and internal tools for a last-mile courier service running Deerfield Beach to West Palm Beach, Florida
-- Automation and integrations that keep the team's bots talking to each other
-- Whatever the next idea turns out to be
+One click, right here at the top. No folders to open on the way.
 
-## Find me
+## Folders
 
-- Email: ivy@welivethisway.com
-- Site: [welivethisway.com](https://welivethisway.com)
+| Folder | What's in it |
+| --- | --- |
+| [`apps/`](apps/) | Apps — one folder each |
+| [`skill-sets/`](skill-sets/) | Skill sets I author — one folder per set |
+
+Nothing else lives at this level. The shape is Court's call; changing it is one commit.
