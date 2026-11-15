@@ -1,0 +1,5 @@
+PLACEHOLDER — not an installable file yet.
+
+This stands in for courier-app v0.1 (debug), so the download link in this folder points at a real file and you can see where it sits.
+
+Ivy can't build a real APK here — there's no Android toolchain on the machine she works from. When a real build exists, it replaces this file with the same name, and nothing else moves.

@@ -4,9 +4,9 @@ Debug build of the courier app for Android.
 
 ## Download
 
-**[courier-app v0.1 — debug APK](../../courier-app-v0.1-debug.apk)**
+**[courier-app v0.1 — debug APK](courier-app-v0.1-debug.apk)**
 
-The file lives at the top of the repo. This link goes straight there.
+The file sits in this folder, next to this README.
 
 ## Install
 
